@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<body style="cursor: crosshair; outline: rgb(0, 0, 0) dotted 3px; outline-offset: 1px;">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Manutenção de Faróis - Comparativo Avançado</title>
 <style>
   /* Cores base */
@@ -215,10 +215,10 @@
     }
   }
 </style>
-</head>
-<body>
-<header>
-  <h1>Manutenção de Faróis de Carros</h1>
+
+
+<header style="">
+  <h1 style="">Manutenção de Faróis de Carros</h1>
 </header>
 <main>
   <p>Serviço profissional de restauração e manutenção de faróis para melhorar a visibilidade e estética do seu veículo.</p>
@@ -228,12 +228,12 @@
     <h2 class="comparison-title">Comparativo Avançado: Antes e Depois da Manutenção</h2>
     <div class="comparison-container" id="comparison">
       <div class="img-after">
-        <img src="https://i.imgur.com/7Q9QXqv.jpg" alt="Farol Depois da Manutenção" />
+        <img src="https://i.imgur.com/7Q9QXqv.jpg" alt="Farol Depois da Manutenção">
       </div>
-      <div class="img-before" id="img-before">
-        <img src="https://i.imgur.com/0Xq6Xqv.jpg" alt="Farol Antes da Manutenção" />
+      <div class="img-before" id="img-before" style="width: 382.8px;">
+        <img src="https://i.imgur.com/0Xq6Xqv.jpg" alt="Farol Antes da Manutenção">
       </div>
-      <div class="slider" id="slider" aria-label="Controle deslizante para comparar imagens antes e depois" role="slider" tabindex="0" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50"></div>
+      <div class="slider" id="slider" aria-label="Controle deslizante para comparar imagens antes e depois" role="slider" tabindex="0" aria-valuemin="0" aria-valuemax="100" aria-valuenow="46" style="left: 382.8px;"></div>
     </div>
     <div class="labels">
       <span>Antes</span>
@@ -245,24 +245,24 @@
     <h2 class="comparison-title">Outros Casos de Sucesso</h2>
     <div class="multi-comparison">
       <div class="comparison-card">
-        <img src="https://i.imgur.com/1Xq6Xqv.jpg" alt="Farol amarelado antes" />
-        <img src="https://i.imgur.com/2Q9QXqv.jpg" alt="Farol restaurado depois" style="display:none;" />
+        <img src="https://i.imgur.com/1Xq6Xqv.jpg" alt="Farol amarelado antes">
+        <img src="https://i.imgur.com/2Q9QXqv.jpg" alt="Farol restaurado depois" style="display:none;">
         <div class="comparison-card-content">
           <h3>Farol Amarelado</h3>
           <p>Restauração completa que removeu o amarelado e recuperou a transparência original, melhorando a segurança noturna.</p>
         </div>
       </div>
       <div class="comparison-card">
-        <img src="https://i.imgur.com/3Xq6Xqv.jpg" alt="Farol riscado antes" />
-        <img src="https://i.imgur.com/4Q9QXqv.jpg" alt="Farol polido depois" style="display:none;" />
+        <img src="https://i.imgur.com/3Xq6Xqv.jpg" alt="Farol riscado antes">
+        <img src="https://i.imgur.com/4Q9QXqv.jpg" alt="Farol polido depois" style="display:none;">
         <div class="comparison-card-content">
           <h3>Farol Riscado</h3>
           <p>Polimento profissional que eliminou riscos profundos, restaurando o brilho e a eficiência da iluminação.</p>
         </div>
       </div>
       <div class="comparison-card">
-        <img src="https://i.imgur.com/5Xq6Xqv.jpg" alt="Farol opaco antes" />
-        <img src="https://i.imgur.com/6Q9QXqv.jpg" alt="Farol limpo depois" style="display:none;" />
+        <img src="https://i.imgur.com/5Xq6Xqv.jpg" alt="Farol opaco antes">
+        <img src="https://i.imgur.com/6Q9QXqv.jpg" alt="Farol limpo depois" style="display:none;">
         <div class="comparison-card-content">
           <h3>Farol Opaco</h3>
           <p>Limpeza e tratamento que devolveram a clareza, aumentando a visibilidade e o valor estético do veículo.</p>
@@ -278,7 +278,7 @@
   </section>
 </main>
 <footer>
-  &copy; 2025 Manutenção de Faróis - Todos os direitos reservados
+  © 2025 Manutenção de Faróis - Todos os direitos reservados
 </footer>
 
 <script>
@@ -351,5 +351,8 @@
     }
   });
 </script>
-</body>
-</html>
+
+
+
+        
+      </body>
